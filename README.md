@@ -8,7 +8,7 @@ The idea is to make some headway into the fascinating world of electronics, and 
 * Researched on the process of making electronics including, but not limited to the development cycle, software to design them (AutoCAD seems prominent), prototyping (can be expensive; 3D printer helps) and places to buy components (ebay can help).
 
 ####Week 2 (Sept 25 - Oct 1)
-* Started learning about circuits. 
+* Started learning about circuits. Watching tutorials online and asked friends for recommendations for buying components to build first circuit.
 
 ###Week 3 (Oct 2 - 8)
 * To follow
