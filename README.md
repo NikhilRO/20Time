@@ -11,7 +11,7 @@ The idea is to make some headway into the fascinating world of electronics, and 
 * Started learning about circuits. Watching tutorials online and asked friends for recommendations for buying components to build first circuit.
 
 ###Week 3 (Oct 2 - 8)
-* To follow
+* Continued to work on circuits; making circuits for different purposes such as light combinations and motors. Understanding the practical purposes of circuits and its limitations. 
 
 ####Week 4 (Oct 9 - 15)
 * To follow
