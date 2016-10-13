@@ -14,7 +14,8 @@ The idea is to make some headway into the fascinating world of electronics, and 
 * Continued to work on circuits; making circuits for different purposes such as light combinations and motors. Understanding the practical purposes of circuits and its limitations. 
 
 ####Week 4 (Oct 9 - 15)
-* To follow
+* Learning how to design electronics using computers. Computer-aided design (CAD) basically involves designing physical objects on computer. In the electronics industry, CAD is called Electronic Design Automation (EDA).
+* Understanding different programmming options and even, the need for such software.  
 
 ####Week 5 (Oct 16 - 22)
 * To follow
