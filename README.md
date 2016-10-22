@@ -18,7 +18,7 @@ The idea is to make some headway into the fascinating world of electronics, and 
 * Understanding different programmming options and even, the need for such software.  
 
 ####Week 5 (Oct 16 - 22)
-* To follow
+* Trying to understand where this project is going. In pursuit of that, exploring Rasperry Pi. Pros-Cheap, easily accessible. What is Rasperry Pi used for? Potential?
 
 ####Week 6 (Oct 23 - 29)
 * To follow
