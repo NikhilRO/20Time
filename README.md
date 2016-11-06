@@ -24,7 +24,7 @@ The idea is to make some headway into the fascinating world of electronics, and 
 * Ordered a Rasperry Pi 3 along with microSD card. Hope is that my phone's power cable will work. I think I will use it as a remote server (for plex). Online community says you can even control the installed linux remotely. 
 
 ####Week 7 (Oct 30 - Nov 5)
-* To follow
+* Revisiting some previous concepts in order to organize information; also, start preparing for the end.
 
 ####Week 8 (Nov 6 - Nov 12)
 * To follow
