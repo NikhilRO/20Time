@@ -18,16 +18,17 @@ The idea is to make some headway into the fascinating world of electronics, and 
 * Understanding different programmming options and even, the need for such software.  
 
 ####Week 5 (Oct 16 - 22)
-* Trying to understand where this project is going. In pursuit of that, exploring Rasperry Pi. Pros-Cheap, easily accessible. Understanding the uses of Rasperry Pi and its potential.
+* Trying to understand where this project is going. In pursuit of that, exploring Raspberry Pi. Pros-Cheap, easily accessible. Understanding the uses of Rasperry Pi and its potential.
 
 ####Week 6 (Oct 23 - 29)
-* Ordered a Rasperry Pi 3 along with microSD card. Hope is that my phone's power cable will work. I think I will use it as a remote server (for plex). Online community says you can even control the installed linux remotely. 
+* Ordered a Raspberry Pi 3 along with microSD card. Hope is that my phone's power cable will work. I think I will use it as a remote server (for plex). Online community says you can even control the installed linux remotely. 
 
 ####Week 7 (Oct 30 - Nov 5)
 * Revisiting some previous concepts in order to organize information; also, start preparing for the end.
 
 ####Week 8 (Nov 6 - Nov 12)
-* To follow
+* Got the Raspberry. Installed OS on microSD Card. Had to get 2.5A power supply. 
+* Using it as media server for now but looking at other options.
 
 ####Week 9 (Nov 13 - Nov 19)
 * To follow
