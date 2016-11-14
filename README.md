@@ -2,7 +2,7 @@
 A log to record progress and learning. This readme will be updated as a log file for the project, and any data files (if necessary) will be found within the repo. 
 
 ##Topic
-The idea is to make some headway into the fascinating world of electronics, and the concept of designing and building them. Some initial ideas are electronic skateboard, toy cars with some sensor capabilitity, fundamentals of drones etc. 
+The idea is to make some headway into the fascinating world of electronics, and the concept of designing, building and manipulating(through software) them. Some initial ideas are electronic skateboard, toy cars with some sensor capabilitity, fundamentals of drones etc. 
 
 ####Week 1 (Sept 18 - 24)
 * Researched on the process of making electronics including, but not limited to the development cycle, software to design them (AutoCAD seems prominent), prototyping (can be expensive; 3D printer helps) and places to buy components (ebay can help).
