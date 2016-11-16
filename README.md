@@ -5,7 +5,8 @@ A log to record progress and learning. This readme will be updated as a log file
 The idea is to make some headway into the fascinating world of electronics, and the concept of designing and building them; also, manipulating them through software. Some initial ideas are electronic skateboard, toy cars with some sensor capabilitity, fundamentals of drones etc. 
 
 
-Increasing number of people are adopting system on a chip (SoC) approach for their DIY projects; this could be interesting to look at. ######[Edit from second half of the project]
+Increasing number of people are adopting system on a chip (SoC) approach for their DIY projects; this could be interesting to look at.
+######[Edit from second half of the project]
 
 ####Week 1 (Sept 18 - 24)
 * Researched on the process of making electronics including, but not limited to the development cycle, software to design them (AutoCAD seems prominent), prototyping (can be expensive; 3D printer helps) and places to buy components (ebay can help).
