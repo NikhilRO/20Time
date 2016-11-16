@@ -27,11 +27,13 @@ The idea is to make some headway into the fascinating world of electronics, and 
 * Revisiting some previous concepts in order to organize information; also, start preparing for the end.
 
 ####Week 8 (Nov 6 - Nov 12)
-* Got the Raspberry. Installed OS on microSD Card. Had to get 2.5A power supply. 
-* Using it as media server for now but looking at other options.
+* Got the RPi. Installed OS(s) on the microSD Card. Had to get 2.5A power supply. 
+* Using it as media server for now but looking at other options. 
+* I used [Plex](https://pimylifeup.com/raspberry-pi-plex-server/) because it looks slick. Another option is Kodi(XMBC). 
 
 ####Week 9 (Nov 13 - Nov 19)
-* To follow
+* Set up RPi to [function remotely](https://www.raspberrypi.org/documentation/remote-access/) through Windows 10. Installed [VNC Viewer](https://www.realvnc.com/download/viewer/) to view graphical interface using VNC.
+* Accessed SSH(Secure Shell) using [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
 ####Week 10 (Nov 20 - 26)
 * To follow
