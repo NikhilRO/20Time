@@ -2,7 +2,7 @@
 A log to record progress and learning. This readme will be updated as a log file for the project, and any data files (if necessary) will be found within the repo. 
 
 ##Topic
-The idea is to make some headway into the fascinating world of electronics, and the concept of designing, building and manipulating(through software) them. Some initial ideas are electronic skateboard, toy cars with some sensor capabilitity, fundamentals of drones etc. 
+The idea is to make some headway into the fascinating world of electronics, and the concept of designing and building them; also, manipulating them through software. Some initial ideas are electronic skateboard, toy cars with some sensor capabilitity, fundamentals of drones etc. 
 
 ####Week 1 (Sept 18 - 24)
 * Researched on the process of making electronics including, but not limited to the development cycle, software to design them (AutoCAD seems prominent), prototyping (can be expensive; 3D printer helps) and places to buy components (ebay can help).
@@ -18,10 +18,10 @@ The idea is to make some headway into the fascinating world of electronics, and 
 * Understanding different programmming options and even, the need for such software.  
 
 ####Week 5 (Oct 16 - 22)
-* Trying to understand where this project is going. In pursuit of that, exploring Raspberry Pi. Pros-Cheap, easily accessible. Understanding the uses of Rasperry Pi and its potential.
+* Trying to understand where this project is going. In pursuit of that, exploring [Raspberry Pi](https://www.raspberrypi.org/). Pros-Cheap, easily accessible. Understanding the uses of Raspberry Pi and its potential.
 
 ####Week 6 (Oct 23 - 29)
-* Ordered a Raspberry Pi 3 along with microSD card. Hope is that my phone's power cable will work. I think I will use it as a remote server (for plex). Online community says you can even control the installed linux remotely. 
+* Ordered a [Raspberry Pi 3](https://www.amazon.ca/CanaKit-Raspberry-Micro-Supply-Listed/dp/B01E4HDIO4/ref=sr_1_4?s=pc&ie=UTF8&qid=1479316771&sr=1-4&keywords=raspberry+pi+3) along with microSD card and power adapter. I think I will use it as a remote server (for plex). Online community says you can even control the installed linux remotely. 
 
 ####Week 7 (Oct 30 - Nov 5)
 * Revisiting some previous concepts in order to organize information; also, start preparing for the end.
@@ -32,8 +32,10 @@ The idea is to make some headway into the fascinating world of electronics, and 
 * I used [Plex](https://pimylifeup.com/raspberry-pi-plex-server/) because it looks slick. Another option is Kodi(XMBC). 
 
 ####Week 9 (Nov 13 - Nov 19)
-* Set up RPi to [function remotely](https://www.raspberrypi.org/documentation/remote-access/) through Windows 10. Installed [VNC Viewer](https://www.realvnc.com/download/viewer/) to view graphical interface using VNC.
+* Set up RPi to [function remotely](https://www.raspberrypi.org/documentation/remote-access/) through Windows 10. 
+* Installed [VNC Viewer](https://www.realvnc.com/download/viewer/) to view graphical interface using VNC.
 * Accessed SSH(Secure Shell) using [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+* For user-friendly file transfer set up SFTP(Secure FTP) using [FileZilla](https://filezilla-project.org/)
 
 ####Week 10 (Nov 20 - 26)
 * To follow
