@@ -41,7 +41,8 @@ Increasing number of people are adopting system on a chip (SoC) approach for the
 * For user-friendly file transfer set up SFTP(Secure FTP) using [FileZilla](https://filezilla-project.org/)
 
 ####Week 10 (Nov 20 - 26)
-* To follow
+* Set up Raspberry Pi as a web server with LAMP(Linux, Apache, MySQL, PHP) Stack; [tutorial](https://www.raspberrypi.org/learning/lamp-web-server-with-wordpress/)
+* I jsut need some ideas for website; personal website with resume and stuff? 
 
 ####Week 11 (Nov 27 - Dec 2)
 * To follow
