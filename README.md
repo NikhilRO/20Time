@@ -42,7 +42,7 @@ Increasing number of people are adopting system on a chip (SoC) approach for the
 
 ####Week 10 (Nov 20 - 26)
 * Set up Raspberry Pi as a web server with LAMP(Linux, Apache, MySQL, PHP) Stack; [tutorial](https://www.raspberrypi.org/learning/lamp-web-server-with-wordpress/)
-* I jsut need some ideas for website; personal website with resume and stuff? 
+* I just need some ideas for website; personal website with resume and stuff? 
 
 ####Week 11 (Nov 27 - Dec 2)
-* To follow
+* Worked on Reflection and Presentation
