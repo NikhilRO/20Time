@@ -5,7 +5,7 @@ A log to record progress and learning. This readme will be updated as a log file
 The idea is to make some headway into the fascinating world of electronics, and the concept of designing and building them; also, manipulating them through software. Some initial ideas are electronic skateboard, toy cars with some sensor capabilitity, fundamentals of drones etc. 
 
 ######Edit from second half of the project
-Increasing number of people are adopting system on a chip (SoC) approach for their DIY projects; this could be interesting to look at.
+Increasing number of people are adopting System on a Chip (SoC) approach for their DIY projects; this could be interesting to look at.
 
 ####Week 1 (Sept 18 - 24)
 * Researched on the process of making electronics including, but not limited to the development cycle, software to design them (AutoCAD seems prominent), prototyping (can be expensive; 3D printer helps) and places to buy components (ebay can help).
@@ -46,3 +46,10 @@ Increasing number of people are adopting system on a chip (SoC) approach for the
 
 ####Week 11 (Nov 27 - Dec 2)
 * Worked on Reflection and Presentation
+
+
+###Additional Links
+* [Mag Pi Magazine 5oth Edition](https://www.raspberrypi.org/magpi/issues/50/)
+* [Windows 10 Core Projects on Raspberry Pi](https://microsoft.hackster.io/en-US)
+* [MagicMirror Project](https://magicmirror.builders/)
+* [My Evernote Notebook on Raspberry Pi](https://www.evernote.com/pub/845031/raspberrypi)
