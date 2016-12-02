@@ -13,4 +13,4 @@ Create a _reflection.md_ document that answers the following questions, and post
 
 ​	It is often said that life is the greatest teacher. Those few weeks were definitely taught me a ton. Also, I realized that my previously acquired skills of organization, and planning made otherwise tough time, smoother and more streamlined. Google calendar, Keep and GitHub are my staples for organization. Also, I discovered that Evernote could be a great tool for managing heaps of information associated with any project.  Also, I learnt time-management as I had to force myself to take time out every week until it became second nature. 
 
-Things improved drastically as I discovered 
+​	Things improved drastically as I discovered when I discovered Raspberry Pi. I absolutely loved the idea of working with a miniature PC and manipulating it any way. 
